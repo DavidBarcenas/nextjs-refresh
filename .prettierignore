@@ -1,0 +1,32 @@
+# Dependencies
+node_modules
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+# Build Output
+dist
+tmp
+out-tsc
+bazel-out
+
+
+# IDEs
+.idea
+.vscode
+.DS_Store
+*.iml
+
+# Test Coverage
+coverage
+
+build
+
+# Assets & Static
+src/assets
+public
+
+# Config items often ignored by prettier
+.editorconfig
+.gitignore
+.npmrc
